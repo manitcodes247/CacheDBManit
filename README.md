@@ -1,4 +1,4 @@
-# CacheDBManit 🗄️
+# CacheDB 🗄️
 
 An in-memory key-value database system with TTL (Time To Live) support, data persistence through serialization, efficient background expiration using daemon threads, and thread-safe operations.  
 Built entirely in Java using advanced OOP principles, Lambdas, Streams, and Synchronization.
